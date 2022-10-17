@@ -21,8 +21,8 @@ A complete CSS stylesheet to set a dark theme in your JavaFX UI.
 <br>
 
 ## CSS preview example
+See this theme in action [**here**](https://github.com/antoniopelusi/KeyHolder-desktop)!
 
-Download stylesheet [**here**](https://github.com/antoniopelusi/JavaFX-Dark-Theme)!
   
 <br>
 
