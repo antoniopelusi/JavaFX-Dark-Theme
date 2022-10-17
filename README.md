@@ -16,7 +16,8 @@ A complete CSS stylesheet to set a dark theme in your JavaFX UI.
   ```
 
 ## CSS preview example
-![image](https://user-images.githubusercontent.com/35381371/195473344-540e090e-da60-45d8-9cc4-f676db4b4523.png)
+
+Download stylesheet [**here**](https://github.com/antoniopelusi/JavaFX-Dark-Theme)!
 
 ## List of JavaFX recolored elements:
 - Label
