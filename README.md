@@ -1,6 +1,8 @@
 # JavaFX-Dark-Theme :waning_crescent_moon:
 A complete CSS stylesheet to set a dark theme in your JavaFX UI.
 
+Built on top of the default JavaFX theme (Modena)
+
 <br>
 
 ## How to use
