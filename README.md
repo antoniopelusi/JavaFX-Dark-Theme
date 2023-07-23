@@ -34,6 +34,7 @@ See this theme in action [**here**](https://github.com/antoniopelusi/KeyHolder-d
 - GridPane
 - TextField
 - ComboBox
+- ChoiceBox
 - ListCell
 - ListView
 - Button
