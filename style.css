@@ -125,6 +125,34 @@
     padding: 1;
 }
 
+/* ChoiceBox */
+.choice-box{
+    -fx-background-radius: 0;
+    -fx-border-insets: 0 0 -1 0;
+    -fx-border-width: 1;
+    border-width: 1;
+    -fx-border-color: #222222;
+    border-color: #222222;
+    -fx-background-color: #1A1A1A;
+    background-color: #1A1A1A;
+    -fx-min-height: 25;
+    min-height: 25;
+    -fx-pref-height: 25;
+}
+.choice-box:hover{
+    -fx-border-color: #222222;
+    border-color: #222222;
+    -fx-background-color: #3E3E40;
+    background-color: #3E3E40;
+    -fx-cursor: HAND;
+    cursor: HAND;
+}
+.choice-box:focused{
+    -fx-border-color: #4e4e4e;
+    border-color: #4e4e4e;
+    -fx-background-color: #1A1A1A;
+    background-color: #1A1A1A;
+}
 
 /* ListCell */
 .list-cell{
