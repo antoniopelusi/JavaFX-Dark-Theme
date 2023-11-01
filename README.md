@@ -19,6 +19,10 @@ Built on top of the default JavaFX theme (Modena)
   File style = new File("relative-path/style.css");
   scene.getStylesheets().add(style.toURI().toURL().toExternalForm());
   ```
+  or (online version)
+  ```
+  scene.getStylesheets().add("https://raw.githubusercontent.com/antoniopelusi/JavaFX-Dark-Theme/main/style.css");
+  ```
   
 <br>
 
